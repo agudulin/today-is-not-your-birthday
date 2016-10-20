@@ -14,5 +14,5 @@
    "manifest_version": 2,
    "name": "Today is NOT your birthday",
    "offline_enabled": true,
-   "version": "0.3"
+   "version": "0.4"
 }
